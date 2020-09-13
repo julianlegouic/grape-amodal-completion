@@ -6,3 +6,9 @@
 .main-content {
   max-width: 60%;
 }
+
+@mobile (max-width: 480px) {
+  .main-content {
+    max-width: 40%;
+  }
+}
