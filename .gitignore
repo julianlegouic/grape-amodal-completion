@@ -26,3 +26,8 @@ results/
 
 # Virtual environment
 venv_amodalCompletion
+
+# Side project folders
+model/
+draw_grape_3D/
+threshold_stats
