@@ -45,7 +45,7 @@ python -m samples.coco.grape evaluate --model=last --dataset=./data/fastgrape/gr
 python -m samples.coco.grape evaluate --model=last --image=./data/fastgrape/grape/val/fuji/before_fuji234_05_rgb.JPG
 ```
 
-For more details on the use of Mask R-CNN for instance segmentation only, please refer to the documents made by [尾形 亮輔](./mrcnn/instructions.pdf).
+For more details on the use of Mask R-CNN for instance segmentation only, please refer to the [instructions](./mrcnn/instructions.pdf) written by 尾形 亮輔.
 
 ## 2. U-Net for amodal completion
 Possible argument to pass to the command:
