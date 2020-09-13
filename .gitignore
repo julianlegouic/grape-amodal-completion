@@ -31,3 +31,5 @@ venv_amodalCompletion
 model/
 draw_grape_3D/
 threshold_stats
+.directory
+run.sh
