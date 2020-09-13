@@ -1,0 +1,28 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python module folders
+__pycache__/
+
+# Visual code workspace settings
+.vscode
+
+# Data folder
+data/
+
+# Output of experiments with unet
+unet/output
+
+# Weights file of torch models
+*.pth
+!unet/baseline.pth
+!unet/baseline_hflip.pth
+
+# logs of Mask R-CNN
+mrcnn/logs
+
+# Folder where result images are stored
+results/
+
+# Virtual environment
+venv_amodalCompletion
